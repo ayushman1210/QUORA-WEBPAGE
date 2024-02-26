@@ -1,0 +1,16 @@
+h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:rgb(105, 53, 219);
+font-style: oblique;
+background-color: aquamarine;}
+p{color: aquamarine;
+background-color:grey;}
+div{background-color: black;
+color: blanchedalmond;}
+img {height: min-content;
+width:min-content;}
+p + h3 {
+    text-decoration: underline;
+}
+button + button {
+    color: cornflowerblue;
+}
